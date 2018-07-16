@@ -1,0 +1,8 @@
+
+Actions:-
+    1:- Press '1' for Introduction.
+    2:- Press '2' to Change name.
+    3:- Press '3' to Play with bone = Dog put foot on toy and toy makes sound.
+    4:- Press '4' to Exit to Main menu.
+
+    Thank you!!

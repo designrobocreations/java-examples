@@ -1,0 +1,10 @@
+
+Actions:-
+    1:- Press '1' for Introduction.
+    2:- Press '2' to Change name.
+    3:- Press '3' to Add Running distance.
+    4:- Press '4' to Throw the bone so that dog catched it.
+    5:- Press '5' to wistle to Call the Dog.
+   6:- Press 'Exit' to Exit to Main menu.
+
+    Thank you!!

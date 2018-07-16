@@ -1,0 +1,6 @@
+Actions:-
+    1:- Press '1' for Introduction.
+    2:- Press '2' for dog because he Wants to play.
+    3:- Press '3' to Changes Name of the Dog
+    4:- Press '8' to Exit to Main menu.
+    Thank you!!

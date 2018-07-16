@@ -1,0 +1,10 @@
+Hi, Welcome to the application.
+
+ Menu Items
+
+ 1. Press '1' to select Matt(man).
+ 2. Press '2' to select Jojo(dog).
+ 3. Press '3' to select Bone(toy).
+ 4. Press '8' to exit the program.
+
+ Thank you!
